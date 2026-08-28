@@ -23,7 +23,7 @@ The project detects a dark brown cloth using **HSV color masking** and replaces 
 ## ⚙️ Run Locally
 
 ```bash
-git clone <your-repository-link>
+git clone [<your-repository-link>](https://github.com/Jannat150/Harry-Potter-Cloak.git)
 cd invisibility-cloak-opencv
 pip install opencv-python numpy
 python invisibility_cloak.py
